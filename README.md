@@ -5,7 +5,7 @@
 ## It can saved the data of chart.
 
 ### The Gantt Chart is a winforms control, but it can hosted in the WPF windows.
-### The Gantt Chart support platform > .net framework 4.0
+### The Gantt Chart support platform >= .net framework 4.0
 
 
 
