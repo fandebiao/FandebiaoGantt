@@ -4,6 +4,9 @@
 ## It can to change resource or start datetime, end datetime via pop window as well;
 ## It can saved the data of chart.
 
+### The Gantt Chart is a winforms control, but it can hosted in the WPF windows.
+### The Gantt Chart support platform > .net framework 4.0
+
 
 
 --
