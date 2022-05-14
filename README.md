@@ -6,7 +6,7 @@
 
 ### The Gantt Chart is created with the microsoft winform control, but it can hosted in the WPF windows.
 ### The Gantt Chart support platform >= .net framework 4.0
-### The Gantt Chart DO not need others libs but Neusoftsoft.json
+### The Gantt Chart DO not need any others libs but Neusoftsoft.json
 
 
 --
